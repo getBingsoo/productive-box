@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 962a56b199e1b37258c5a03f7729001c
+          GIST_ID: 11fb577d7b5c38ef5a9eb08f9a5e35b0
           TIMEZONE: Asia/Seoul
